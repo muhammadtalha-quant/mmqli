@@ -1,9 +1,8 @@
 # MmQL - The Mathematical Query Language
 
 > [!NOTE]
-> Want to know what is planned about this project ?
-> See [PLANS.md](DetailedDocumentation/PLANS.md).
-> - This project is being refactored, but since my machine is now malfunctioning due to over-heating and it should malfunction because it is almost a decade old now...., so now the work is stopped due to that reason. I know that I added this statement about after 15 days(or just the last commit), since then the work is stopped.
+> I have no further plans to continue working on this project and as of 2026-09-30 and 21:15, I am archiving this repository.
+> Furthermore, I am committed to learn more about modern cpp and interpreter and compiler design, so once my knowledge about these concepts are good, I will try to re-implement this project using the real world approaches that are applied when real languages are created.
 
 **MmQL** is a very lightweight computational query language used to compute operations involving real and complex
 numbers of arbitrary precision. The interpreter for MmQL is designed in C++20.
